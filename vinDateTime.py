@@ -1,7 +1,7 @@
 from datetime import datetime
 
 def getDateTimeWeekday() -> str:
-    """
+    """1
     returns STR as:
         0 1 2 3 : YEAR
         4 5     : MONTH
