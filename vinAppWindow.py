@@ -1,3 +1,5 @@
+# MADE FOR ComputerStartup
+
 import pygetwindow
 from time import sleep
 

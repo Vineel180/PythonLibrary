@@ -1,3 +1,5 @@
+# MADE FOR ComputerStartup
+
 from subprocess import Popen
 
 # open a site/folder/app

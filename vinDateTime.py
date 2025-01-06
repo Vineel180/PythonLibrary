@@ -1,3 +1,5 @@
+# MADE FOR ComputerStartup
+
 from datetime import datetime
 
 def getDateTimeWeekday() -> str:
